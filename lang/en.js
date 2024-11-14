@@ -1,6 +1,6 @@
 // ---------- Navbar titles
 const enNavbarData = {
-  title: " Your name ",
+  title: "Benchao Zhu",
   Home: "Home",
   publications: "publications",
   Research: "Research",
@@ -10,7 +10,7 @@ const enNavbarData = {
 
 // ---------- Home page data
 const enHomePageData = {
-  name: " Your name ",
+  name: "Benchao Zhu",
   jobTitle: " Job title ",
   home_title: "About me",
   home_content: `
