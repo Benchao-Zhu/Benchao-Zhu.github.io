@@ -1,9 +1,9 @@
 const navbarLinks = {
   home: true,
-  publications: true,
-  research: true,
-  jobs: true,
-  contact: true,
+  publications: false,
+  research: false,
+  jobs: false,
+  contact: false,
 };
 
 const globalData = {
