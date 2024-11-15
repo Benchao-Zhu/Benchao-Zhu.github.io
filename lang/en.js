@@ -19,7 +19,7 @@ const enHomePageData = {
     </p>
     <h2 class='title'> Education </h2>
     <div class="cventry">
-      <div class="title">Research Assistant</div>
+      <div class="cv-title">Research Assistant</div>
       <div class="company">Fudan University</div>
     </div>
     <div class="cventry">
