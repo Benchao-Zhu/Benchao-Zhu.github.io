@@ -628,3 +628,19 @@
 .rtl_wrapper #contact_data a {
   direction: ltr;
 }
+
+.cventry {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.25em;
+}
+.cventry .title, .cventry .company {
+  font-weight: bold;
+}
+.cventry .date, .cventry .location {
+  font-style: italic;
+}
+.cventry .description {
+  font-size: 0.9em;
+  margin-top: 0.25em;
+}
