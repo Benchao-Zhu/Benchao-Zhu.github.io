@@ -11,7 +11,7 @@ const enNavbarData = {
 // ---------- Home page data
 const enHomePageData = {
   name: "Benchao Zhu",
-  jobTitle: " Job title ",
+  jobTitle: "Fudan University",
   home_title: "About me",
   home_content: `
   <div>
