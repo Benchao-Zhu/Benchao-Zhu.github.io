@@ -14,7 +14,7 @@ $(document).ready(function () {
       document.getElementById("languageText")
     ) {
       document.getElementById("languageIcon").src =
-        "../assets/images/icons/en.png";
+        "../assets/images/icons/us.png";
       document.getElementById("languageText").innerText = "EN";
     }
   } else {
@@ -24,8 +24,8 @@ $(document).ready(function () {
       document.getElementById("languageText")
     ) {
       document.getElementById("languageIcon").src =
-        "../assets/images/icons/ir.png";
-      document.getElementById("languageText").innerText = "FA";
+        "../assets/images/icons/cn.png";
+      document.getElementById("languageText").innerText = "ZH";
     }
   }
 
