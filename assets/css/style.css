@@ -634,7 +634,7 @@
   justify-content: space-between;
   margin-bottom: 0.25em;
 }
-.cventry .title, .cventry .company {
+.cventry .cv-title, .cventry .company {
   font-weight: bold;
 }
 .cventry .date, .cventry .location {
