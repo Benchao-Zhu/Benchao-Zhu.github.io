@@ -13,7 +13,7 @@ const faHomePageData = {
   home_title: "自我介绍",
   home_content: ` 
   <div>
-    <p> 你好，我是朱奔超，复旦大学微电子科学与工程专业的硕士研究生。目前，我的研究方向是电子设计自动化（EDA），尤其是在布局布线算法方面。 </p>
+    <p> 你好，我是朱奔超，复旦大学微电子硕士研究生在读。目前，我的研究方向是电子设计自动化（EDA），尤其是在布局布线算法方面。 </p>
     <h2 class='title'> 教育背景 </h2>
     <div class="cventry">
       <div class="company">复旦大学</div>
