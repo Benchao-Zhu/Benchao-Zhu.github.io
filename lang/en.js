@@ -18,7 +18,14 @@ const enHomePageData = {
     <p> Hello, I am Benchao Zhu, a Master's student at the School of Microelectronics, Fudan University. My research focuses on Electronic Design Automation (EDA), with an emphasis on placement and routing algorithms.
     </p>
     <h2 class='title'> Education </h2>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Egestas purus viverra accumsan in nisl nisi. Arcu cursus vitae congue mauris rhoncus aenean vel elit scelerisque. In egestas erat imperdiet sed euismod nisi porta lorem mollis. Morbi tristique senectus et netus. Mattis pellentesque id nibh  </p>
+    <div class="cventry">
+      <div class="title">Research Assistant</div>
+      <div class="company">Fudan University</div>
+    </div>
+    <div class="cventry">
+      <div class="date">Sept 2023 - Present</div>
+      <div class="location">Shanghai, China</div>
+    </div>
     <ul>
       <li> Heuristics</li>
       <li> Policy planning </li>
