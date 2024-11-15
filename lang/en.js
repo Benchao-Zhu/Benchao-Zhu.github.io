@@ -19,12 +19,20 @@ const enHomePageData = {
     </p>
     <h2 class='title'> Education </h2>
     <div class="cventry">
-      <div class="cv-title">Research Assistant</div>
       <div class="company">Fudan University</div>
+      <div class="location">Shanghai, China</div>
     </div>
     <div class="cventry">
-      <div class="date">Sept 2023 - Present</div>
+      <div class="cv-title">M.E. in Electronics and Information Engineering</div>
+      <div class="date">September 2022 - June 2025 (expected)</div>
+    </div>
+    <div class="cventry">
+      <div class="company">Fudan University</div>
       <div class="location">Shanghai, China</div>
+    </div>
+    <div class="cventry">
+      <div class="cv-title">B.E. in Microelectronics Science and Engineering</div>
+      <div class="date">September 2018 - June 2022</div>
     </div>
     <ul>
       <li> Heuristics</li>
