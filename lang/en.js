@@ -34,6 +34,19 @@ const enHomePageData = {
       <div class="cv-title">B.E. in Microelectronics Science and Engineering</div>
       <div class="date">September 2018 - June 2022</div>
     </div>
+    <h2 class='title'> Competition </h2>
+    <div class="cventry">
+      <div class="company">2023 ISPD Contest (Security Closure of Physical Layouts)</div>
+      <div class="location">First Place</div>
+    </div>
+    <div class="cventry">
+      <div class="company">2024 ISPD Contest (GPU/ML-Enhanced Large Scale Global Routing)</div>
+      <div class="location">Fifth Place</div>
+    </div>
+    <div class="cventry">
+      <div class="company">2024 ICCAD Contest (Power and Timing Optimization Using Multibit Flip-Flop)</div>
+      <div class="location">Fourth Place</div>
+    </div>
   </div>
   `,
 };
