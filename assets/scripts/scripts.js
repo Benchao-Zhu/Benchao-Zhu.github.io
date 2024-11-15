@@ -8,7 +8,7 @@ $(document).ready(function () {
   }
 
   if (lang === "fa") {
-    document.getElementById("content_wrapper").classList.add("rtl_wrapper");
+    document.getElementById("content_wrapper").classList.add("ltr_wrapper");
     if (
       document.getElementById("languageIcon") &&
       document.getElementById("languageText")
