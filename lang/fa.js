@@ -11,13 +11,56 @@ const faHomePageData = {
   name: "朱奔超",
   jobTitle: "复旦大学",
   home_title: "自我介绍",
-  home_content: ` <p> 你好，我是朱奔超，复旦大学微电子科学与工程专业的硕士研究生。目前，我的研究方向是电子设计自动化（EDA），尤其是在布局布线算法方面。 </p>
+  home_content: ` 
+  <div>
+    <p> 你好，我是朱奔超，复旦大学微电子科学与工程专业的硕士研究生。目前，我的研究方向是电子设计自动化（EDA），尤其是在布局布线算法方面。 </p>
     <h2 class='title'> 教育背景 </h2>
-    <p> لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد. </p>
+    <div class="cventry">
+      <div class="company">复旦大学</div>
+      <div class="location">中国上海</div>
+    </div>
+    <div class="cventry">
+      <div class="cv-title">电子信息(硕士)</div>
+      <div class="date">2022年9月 - 2025年6月</div>
+    </div>
+    <div class="cventry">
+      <div class="company">复旦大学</div>
+      <div class="location">中国上海</div>
+    </div>
+    <div class="cventry">
+      <div class="cv-title">微电子科学与工程(学士)</div>
+      <div class="date">2018年9月 - 2022年6月</div>
+    </div>
+    <h2 class='title'> 竞赛 </h2>
+    <div class="cventry">
+      <div class="company">2023 ISPD Contest (Security Closure of Physical Layouts)</div>
+      <div class="location">第一名</div>
+    </div>
+    <div class="cventry">
+      <div class="company">2024 ISPD Contest (GPU/ML-Enhanced Large Scale Global Routing)</div>
+      <div class="location">第五名</div>
+    </div>
+    <div class="cventry">
+      <div class="company">2024 ICCAD Contest (Power and Timing Optimization Using Multibit Flip-Flop)</div>
+      <div class="location">第四名</div>
+    </div>
+    <h2 class='title'> 论文 </h2>
     <ul>
-      <li> عنوان تستی </li>
-      <li>  عنوان تستی  2  </li>
-      <li> عنوان تستی 3  </li>
+      <li>
+      <strong>Late Breaking Results: Mixed-Cell-Height Detailed Placement under Multi-Cell Spacing Constraints</strong><br>
+      <strong>Benchao Zhu</strong>, Zheng Zeng, and Jianli Chen<br>
+      <em>61st ACM/IEEE Design Automation Conference (DAC), 2024.</em>
+    </li>
+    <li>
+      <strong>Effective Analytical Placement for Advanced Hybrid-Row-Height Circuit Designs</strong><br>
+      Yuan Wen, <strong>Benchao Zhu</strong>, Zhifeng Lin, and Jianli Chen<br>
+      <em>29th Asia and South Pacific Design Automation Conference (ASPDAC), 2024.</em>
+    </li>
+    <li>
+      <strong>Mixed-cell-height Placement with Minimum-Implant-Area and Drain-to-Drain Abutment Constraints</strong><br>
+      Guohao Chen, Zheng Zeng, <strong>Benchao Zhu</strong>, Jiawei Li, Kun Wang, Jun Yu, and Jianli Chen<br>
+      <em>60th ACM/IEEE Design Automation Conference (DAC), 2023.</em>
+    </li>
     </ul>
   `,
 };
