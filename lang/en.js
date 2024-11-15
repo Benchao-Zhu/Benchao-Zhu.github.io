@@ -34,7 +34,7 @@ const enHomePageData = {
       <div class="cv-title">B.E. in Microelectronics Science and Engineering</div>
       <div class="date">September 2018 - June 2022</div>
     </div>
-    <h2 class='title'> Competition </h2>
+    <h2 class='title'> Competitions </h2>
     <div class="cventry">
       <div class="company">2023 ISPD Contest (Security Closure of Physical Layouts)</div>
       <div class="location">First Place</div>
