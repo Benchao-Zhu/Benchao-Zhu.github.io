@@ -15,7 +15,7 @@ const enHomePageData = {
   home_title: "About me",
   home_content: `
   <div>
-    <p> Hello, I am Benchao Zhu, a Master's student at the School of Microelectronics, Fudan University. My research focuses on Electronic Design Automation (EDA), with an emphasis on placement and routing algorithms. m
+    <p> Hello, I am Benchao Zhu, a Master's student at the School of Microelectronics, Fudan University. My research focuses on Electronic Design Automation (EDA), with an emphasis on placement and routing algorithms.
     </p>
     <h2 class='title'> Education </h2>
     <div class="cventry">
