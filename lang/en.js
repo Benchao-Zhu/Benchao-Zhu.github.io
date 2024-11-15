@@ -47,6 +47,24 @@ const enHomePageData = {
       <div class="company">2024 ICCAD Contest (Power and Timing Optimization Using Multibit Flip-Flop)</div>
       <div class="location">Fourth Place</div>
     </div>
+    <h2 class='title'> Publications </h2>
+    <ul>
+      <li>
+      <strong>Late Breaking Results: Mixed-Cell-Height Detailed Placement under Multi-Cell Spacing Constraints</strong><br>
+      <strong>Benchao Zhu</strong>, Zheng Zeng, and Jianli Chen<br>
+      <em>61st ACM/IEEE Design Automation Conference (DAC), 2024.</em>
+    </li>
+    <li>
+      <strong>Effective Analytical Placement for Advanced Hybrid-Row-Height Circuit Designs</strong><br>
+      Yuan Wen, <strong>Benchao Zhu</strong>, Zhifeng Lin, and Jianli Chen<br>
+      <em>29th Asia and South Pacific Design Automation Conference (ASPDAC), 2024.</em>
+    </li>
+    <li>
+      <strong>Mixed-cell-height Placement with Minimum-Implant-Area and Drain-to-Drain Abutment Constraints</strong><br>
+      Guohao Chen, Zheng Zeng, <strong>Benchao Zhu</strong>, Jiawei Li, Kun Wang, Jun Yu, and Jianli Chen<br>
+      <em>60th ACM/IEEE Design Automation Conference (DAC), 2023.</em>
+    </li>
+    </ul>
   </div>
   `,
 };
