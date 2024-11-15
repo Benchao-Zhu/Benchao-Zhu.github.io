@@ -62,6 +62,7 @@ const faHomePageData = {
       <em>60th ACM/IEEE Design Automation Conference (DAC), 2023.</em>
     </li>
     </ul>
+  </div>
   `,
 };
 
