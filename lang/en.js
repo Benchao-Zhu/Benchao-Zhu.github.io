@@ -34,11 +34,6 @@ const enHomePageData = {
       <div class="cv-title">B.E. in Microelectronics Science and Engineering</div>
       <div class="date">September 2018 - June 2022</div>
     </div>
-    <ul>
-      <li> Heuristics</li>
-      <li> Policy planning </li>
-      <li> Flexiblity to details </li>
-    </ul>
   </div>
   `,
 };
